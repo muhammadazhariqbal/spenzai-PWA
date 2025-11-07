@@ -216,7 +216,7 @@ Things I'm considering (but avoiding feature creep):
 
 ## Links
 
-- **Live App:** [spenzai.pages.dev](https://spenzai.pages.dev)
+- **Live App:** [spenzai.pages.dev](https://spenzai.com/)
 - **Author:** [Muhammad Azhar Iqbal](https://www.linkedin.com/in/muhammadazhariqbal/)
 
 ---
