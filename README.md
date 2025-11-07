@@ -1,3 +1,6 @@
+![cover](cover-spenzai.png)
+
+
 # Spenzai
 
 **A privacy-first expense tracker built for real-world use**
